@@ -147,6 +147,24 @@ npx skills add alchaincyf/nuwa-skill
 
 ---
 
+## 已蒸馏人物
+
+女娲已经蒸馏了7位各领域最强的人。每个都是独立的、可直接安装使用的Skill：
+
+| 人物 | 领域 | 独立仓库 | 一键安装 |
+|------|------|---------|---------|
+| ⭐ **乔布斯** | 产品/设计/战略 | [steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | `npx skills add alchaincyf/steve-jobs-skill` |
+| **马斯克** | 工程/成本/第一性原理 | [elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) | `npx skills add alchaincyf/elon-musk-skill` |
+| **芒格** | 投资/多元思维/逆向思考 | [munger-skill](https://github.com/alchaincyf/munger-skill) | `npx skills add alchaincyf/munger-skill` |
+| **费曼** | 学习/教学/科学思维 | [feynman-skill](https://github.com/alchaincyf/feynman-skill) | `npx skills add alchaincyf/feynman-skill` |
+| **纳瓦尔** | 财富/杠杆/人生哲学 | [naval-skill](https://github.com/alchaincyf/naval-skill) | `npx skills add alchaincyf/naval-skill` |
+| **塔勒布** | 风险/反脆弱/不确定性 | [taleb-skill](https://github.com/alchaincyf/taleb-skill) | `npx skills add alchaincyf/taleb-skill` |
+| **张雪峰** | 教育/职业规划/阶层流动 | [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | `npx skills add alchaincyf/zhangxuefeng-skill` |
+
+每个仓库都包含完整的调研数据和效果示例对话。想蒸馏不在列表里的人？安装女娲，说「蒸馏一个XXX」就行。
+
+---
+
 ## 工作原理
 
 输入一个名字后，女娲做四件事：
